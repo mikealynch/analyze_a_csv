@@ -2,4 +2,3 @@ pandas
 pandasai
 openai
 pyyaml
-dotenv
