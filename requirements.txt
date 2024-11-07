@@ -2,3 +2,5 @@ pandas
 pandasai
 openai
 pyyaml
+python-dotenv
+dotenv
