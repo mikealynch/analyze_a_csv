@@ -1,0 +1,5 @@
+dotenv
+pandas
+pandasai
+openai
+pandasai.llm
