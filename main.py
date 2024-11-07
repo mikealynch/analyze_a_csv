@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  6 14:50:16 2024
-
-@author: MIke Lynch
-"""
-
-
 
 
 
