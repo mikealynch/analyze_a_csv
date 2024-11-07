@@ -1,4 +1,3 @@
-from dotenv import load_dotenv
 import os
 import streamlit as st
 import pandas as pd
@@ -7,11 +6,9 @@ from pandasai.llm import OpenAI
 import openai
 
 
-load_dotenv()
-api_key = os.getenv("API_KEY")
+api_key = st.secrets["API_KEY"]
 
 
-api_key = st.text_area("API KEY")
 openai.api_key = api_key
 
 
